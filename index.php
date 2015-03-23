@@ -6,16 +6,18 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
+	<meta name="Keywords" content="Web Design,Website Design,Web Designer,Website Designer,Malaysia Web Design,Malaysia Website Design,Malaysia Web Designer,Malaysia Website Designer, Malaysia web design, web design Malaysia, Interactive multimedia design,  Malaysia e-commerce solutions, malaysia graphic design, Malaysia Website Designer, web designer Malaysia, web hosting Malaysia, Flash design Malaysia, Malaysia Flash design, web design malaysia, website design malaysia, website designing kuala lumpur, web design selangor, website e-commerce design,  malaysia website design, malaysia ecommerce, web design  malaysia,  website design, web design,  professional website design,  web design company,  web page design,  web site design,  website design company,  website development website, search engine optimization, web redesign, website redesign,  Malaysia website design, malaysia website design malaysia web design,  malaysia web-based application, interactive marketing multimedia flash, shockwave, web application development system, application service provider, customized interactive sites, web site maintenance, shopping cart system, online payment system">
+    <meta name="description" content="Freelance Web Design Professional">
+    <meta name="author" content="Malaysia Freelance Web Design | Metapalex - Malaysia Freelance Website Design Professional ">
+	<meta name="Email" content="info@metapalex.com"/>
 
-    <title>Freelancer - Meta Perallex</title>
+    <title>Freelancer - The Meta Parallax Effect</title>
 
     <!-- Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom CSS -->
-    <link href="css/freelancer.css" rel="stylesheet">
+    <link href="css/freelancer.css?<?php echo date('l jS \of F Y h:i:s A'); ?>" rel="stylesheet">
 
     <!-- Custom Fonts -->
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -44,7 +46,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#page-top">Meta Perallex</a>
+                <a class="navbar-brand" href="#page-top">Meta Palex</a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
@@ -74,11 +76,13 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <img class="img-responsive" src="img/profile.png" alt="">
                     <div class="intro-text">
-                        <span class="name">Start Bootstrap</span>
+                        <span class="name">The Parallax Effect</span>					
                         <hr class="star-light">
-                        <span class="skills">Web Developer - Graphic Artist - User Experience Designer</span>
+                        <span class="skills">We are digital web agency in Malaysia.</span><br>
+						<span class="skills">We aim to produce high-quality website. We pursue current web technology trends and browser compatible.</span><br>
+						<span class="skills">We have keen visual eye and we understand the importance of getting it to look amazing design.</span><br>
+						<span class="skills">We care as much about the visuals as we do more about the code.</span>
                     </div>
                 </div>
             </div>
@@ -90,7 +94,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2>Portfolio</h2>
+                    <h2>What can we do?</h2>
+					Smooth ,Inview elegant show, eloquent, morpher.
                     <hr class="star-primary">
                 </div>
             </div>
@@ -166,19 +171,20 @@
                 <div class="col-lg-12 text-center">
                     <h2>About</h2>
                     <hr class="star-light">
+					<h3>A small team of group. But we are not afraid to challenge ourselves to achieve award winning. Please ask for free quotation.</h3>
                 </div>
             </div>
             <div class="row">
                 <div class="col-lg-4 col-lg-offset-2">
-                    <p>Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional LESS stylesheets for easy customization.</p>
+                    <p></p>
                 </div>
                 <div class="col-lg-4">
-                    <p>Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this template is the perfect starting point!</p>
+                    <p></p>
                 </div>
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <a href="#" class="btn btn-lg btn-outline">
+     <!--               <a href="#" class="btn btn-lg btn-outline">
                         <i class="fa fa-download"></i> Download Theme
-                    </a>
+                    </a> -->
                 </div>
             </div>
         </div>
@@ -245,11 +251,11 @@
             <div class="container">
                 <div class="row">
                     <div class="footer-col col-md-4">
-                        <h3>Location</h3>
-                        <p>3481 Melrose Place<br>Beverly Hills, CA 90210</p>
+                        <!-- <h3>Location</h3>
+                        <p>3481 Melrose Place<br>Beverly Hills, CA 90210</p> -->
                     </div>
                     <div class="footer-col col-md-4">
-                        <h3>Around the Web</h3>
+                        <!--<h3>Around the Web</h3>
                         <ul class="list-inline">
                             <li>
                                 <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
@@ -266,11 +272,13 @@
                             <li>
                                 <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-dribbble"></i></a>
                             </li>
-                        </ul>
+                        </ul> -->
+
+						<h3>About Us</h3>
+                        <p>A small team of group. But we are not afraid to challenge ourselves to achieve award winning. Please ask for free quotation.</p>
                     </div>
                     <div class="footer-col col-md-4">
-                        <h3>About Freelancer</h3>
-                        <p>Freelance is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.</p>
+
                     </div>
                 </div>
             </div>
@@ -279,7 +287,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        Copyright &copy; Your Website 2014
+                        Copyright &copy; www.metapalex.com 2015
                     </div>
                 </div>
             </div>
@@ -303,7 +311,7 @@
                 </div>
             </div>
             <div class="container">
-                <div class="row">
+                <div class="row"> 
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
                             <h2>Project Title</h2>
@@ -536,5 +544,4 @@
     <script src="js/freelancer.js"></script>
 
 </body>
-
 </html>
