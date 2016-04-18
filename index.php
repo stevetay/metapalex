@@ -56,6 +56,9 @@
                         <a href="#page-top"></a>
                     </li>
                     <li class="page-scroll">
+                        <a href="#package">Web Design Package</a>
+                    </li>
+                    <li class="page-scroll">
                         <a href="#portfolio">Portfolio</a>
                     </li>
                     <li class="page-scroll">
@@ -89,7 +92,113 @@
         </div>
     </header>
 
+
+    <section id="package">
+      <div id="pricing-table" class="clear">
+    <div class="plan">
+        <h3>Basic<span>RM 2,880</span></h3>
+        <div class=" page-scroll">  
+            <a class="signup" href="#contact">Contact Us</a>
+        </div>
+          
+        <ul>  
+          <li><b>10</b> Pages</li>
+          <li><b>Customized</b> Interface Design</li>
+          <li>jQuery Rotating Banner</li>
+          <li>Interactive Navigation Menu</li>
+          <li>Photo Gallery</li>
+          <li><b>Free 10</b> License Images</li>
+          <li><b>Free 1</b> year hosting</li>
+          <li><b>Free 1</b> year domain (.com & .com.my )</li> 
+          <li><b>1GB </b> Disk Space</li>
+          <li><b>10GB </b> Monthly Bandwidth</li>
+          <li><b>2</b> Email Accounts</li>
+          <li><b>Unlimited</b> subdomains</li>		         
+        </ul> 
+    </div>
+    <div class="plan" id="most-popular">
+        <h3>Standard<span>RM 4,550</span></h3>
+        <div class=" page-scroll">  
+            <a class="signup" href="#contact">Contact Us</a>
+        </div>     
+        <ul>
+            <li><b>15</b> Pages</li>
+            <li><b>Responsive Design</b> (PC, Tablet, Mobile)</li>
+            <li><b>Customized</b> Interface Design </li>
+            <li>jQuery Rotating Banner </li>
+            <li>Interactive Navigation Menu </li>
+            <li>Photo Gallery </li>
+            <li><b>Free Unlimited</b> License Images  </li>
+            <li>Free On Site Search Engine Optimization  </li>
+            <li>Free 1 year hosting </li>
+            <li>Free 1 year domain (.com & .com.my)</li>
+            <li><b>3GB </b> Disk Space</li>
+            <li><b>25GB </b> Monthly Bandwidth</li>
+            <li><b>5</b> Email Accounts</li>
+            <li><b>Unlimited</b> subdomains</li>			
+        </ul>    
+    </div>
+    <div class="plan">
+        <h3>Professional<span>RM 5,690 </span></h3>
+        <div class=" page-scroll">  
+            <a class="signup" href="#contact">Contact Us</a>
+        </div>
+        <ul>
+            <li> 20 Pages</li>
+            <li>Responsive Design (PC, Tablet, Mobile)</li>
+            <li>Customized Interface Design</li>
+            <li>jQuery Rotating Banner</li>
+            <li>Interactive Navigation Menu</li>
+            <li>Photo Gallery</li>
+            <li>Free Unlimited License Images</li>
+            <li>Free On Site Search Engine Optimization</li>
+            <li>Content Management System </li>
+            <li>Newsletter Subscription </li>
+            <li>Events & News Update </li>
+            <li>Free 1 Session of Training </li>
+            <li>Free 1 year hosting</li>
+            <li>Free 1 year domain (.com & .com.my)</li>
+            <li><b>5GB</b> Disk Space</li>
+            <li><b>50GB</b> Monthly Bandwidth</li>
+            <li><b>10</b> Email Accounts</li>
+			      <li><b>Unlimited</b> subdomains</li>			
+        </ul>
+    </div>
+    <div class="plan">
+        <h3>Enterprise<span>RM 6,890</span></h3>
+        <div class=" page-scroll">  
+            <a class="signup" href="#contact">Contact Us</a>
+        </div>	
+        <ul>
+          <li>Unlimited products support </li>
+          <li>Responsive Design (PC, Tablet, Mobile)</li>
+          <li>Accept Paypal & Credit Card </li>
+          <li>Multi Categories & Subcategory </li>
+          <li>Multi Currency </li>
+          <li>Multi Languages </li>
+          <li>Member Sign Up & Order </li>
+          <li>Customized Interface Design</li>
+          <li>jQuery Rotating Banner</li>
+          <li>Interactive Navigation Menu</li>
+          <li>Free Unlimited License Images</li>
+          <li>Free Search Engine Optimization</li>
+          <li>Content Management System</li>
+          <li>Newsletter Subscription</li>
+          <li>Events & News Update</li>
+          <li>Free 1 Session of Training</li>
+          <li>Free 1 year hosting</li>
+          <li>Free 1 year domain (.com & .com.my)</li>
+          <li><b>10GB</b> Disk Space</li>
+          <li><b>100GB</b> Monthly Bandwidth</li>
+          <li><b>20</b> Email Accounts</li>
+          <li><b>Unlimited</b> subdomains</li>			
+        </ul>
+    </div> 	
+</div>
+    </section>
+    <div style="clear:both;"></div>
     <!-- Portfolio Grid Section -->
+  
     <section id="portfolio">
         <div class="container">
             <div class="row">
@@ -99,47 +208,10 @@
                     <hr class="star-primary">
                 </div>
             </div>
-            <div class="row">
-                <div class="col-sm-4 portfolio-item">
-                    <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
-                        <div class="caption">
-                            <div class="caption-content">
-                                <i class="fa fa-search-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/portfolio/cabin.png" class="img-responsive" alt="">
-                    </a>
-                </div>
-                <div class="col-sm-4 portfolio-item">
-                    <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
-                        <div class="caption">
-                            <div class="caption-content">
-                                <i class="fa fa-search-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/portfolio/cake.png" class="img-responsive" alt="">
-                    </a>
-                </div>
-                <div class="col-sm-4 portfolio-item">
-                    <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
-                        <div class="caption">
-                            <div class="caption-content">
-                                <i class="fa fa-search-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/portfolio/circus.png" class="img-responsive" alt="">
-                    </a>
-                </div>
-                <div class="col-sm-4 portfolio-item">
-                    <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
-                        <div class="caption">
-                            <div class="caption-content">
-                                <i class="fa fa-search-plus fa-3x"></i>
-                            </div>
-                        </div>
-                        <img src="img/portfolio/game.png" class="img-responsive" alt="">
-                    </a>
-                </div>
+
+            <div class="row">    
+              <div class="col-sm-2 portfolio-item">
+              </div>
                 <div class="col-sm-4 portfolio-item">
                     <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
                         <div class="caption">
@@ -147,7 +219,7 @@
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/safe.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/etccreative.png" class="img-responsive" alt="">
                     </a>
                 </div>
                 <div class="col-sm-4 portfolio-item">
@@ -157,13 +229,15 @@
                                 <i class="fa fa-search-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img src="img/portfolio/submarine.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/united-pump.png" class="img-responsive" alt="">
                     </a>
+                </div>
+                <div class="col-sm-2 portfolio-item">
                 </div>
             </div>
         </div>
     </section>
-
+  
     <!-- About Section -->
     <section class="success" id="about">
         <div class="container">
@@ -287,7 +361,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        Copyright &copy; www.metapalex.com 2015
+                        Copyright &copy; www.metapalex.com 2016
                     </div>
                 </div>
             </div>
@@ -462,21 +536,21 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>Project Title</h2>
+                            <h2>Etc Creative</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/safe.png" class="img-responsive img-centered" alt="">
-                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
+                            <img src="img/portfolio/etccreative.png" class="img-responsive img-centered" alt="">
+                            <p>These custom design website with parallex scolling. Video, rounded box gallery , sliding images and custom linked with the background.</p>
                             <ul class="list-inline item-details">
                                 <li>Client:
-                                    <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
+                                    <strong><a href="http://etccreative.com.my">Etc Creative Sdn Bhd</a>
                                     </strong>
                                 </li>
                                 <li>Date:
-                                    <strong><a href="http://startbootstrap.com">April 2014</a>
+                                    <strong><a href="">April 2014</a>
                                     </strong>
                                 </li>
                                 <li>Service:
-                                    <strong><a href="http://startbootstrap.com">Web Development</a>
+                                    <strong><a href="">Web Design Development</a>
                                     </strong>
                                 </li>
                             </ul>
@@ -499,21 +573,21 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>Project Title</h2>
+                            <h2>United Pump</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/submarine.png" class="img-responsive img-centered" alt="">
-                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
+                            <img src="img/portfolio/united-pump.png" class="img-responsive img-centered" alt="">
+                            <p>Customize designed with Wordpress. Content Management System (CMS) upload product images and contents all can be manage by system.</p>
                             <ul class="list-inline item-details">
                                 <li>Client:
-                                    <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
+                                    <strong><a href="http://united-pumps.com">United Pump</a>
                                     </strong>
                                 </li>
                                 <li>Date:
-                                    <strong><a href="http://startbootstrap.com">April 2014</a>
+                                    <strong><a href="http://startbootstrap.com">March 2016</a>
                                     </strong>
                                 </li>
                                 <li>Service:
-                                    <strong><a href="http://startbootstrap.com">Web Development</a>
+                                    <strong><a href="http://startbootstrap.com">Web CMS Development</a>
                                     </strong>
                                 </li>
                             </ul>
