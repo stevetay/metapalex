@@ -165,7 +165,7 @@
         </ul>
     </div>
     <div class="plan">
-        <h3>Enterprise<span>RM 6,890</span></h3>
+        <h3>Enterprise <br> Ecommerce<span>RM 6,890</span></h3>
         <div class=" page-scroll">  
             <a class="signup" href="#contact">Contact Us</a>
         </div>	
@@ -204,7 +204,7 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2>What can we do?</h2>
-					Smooth ,Inview elegant show, eloquent, morpher.
+					<!-- Smooth ,Inview elegant show, eloquent, morpher. -->
                     <hr class="star-primary">
                 </div>
             </div>
