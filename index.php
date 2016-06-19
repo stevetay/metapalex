@@ -619,7 +619,7 @@
 <script src="http://cdnjs.cloudflare.com/ajax/libs/gsap/latest/plugins/ScrollToPlugin.min.js"></script>
 
     <!-- Custom Theme JavaScript -->
-    <script src="js/freelancer.js"></script>
+    <script src="js/freelancer.js?v=1"></script>
     
 </body>
 </html>
