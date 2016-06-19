@@ -100,8 +100,9 @@
         <div class=" page-scroll">  
             <a class="signup" href="#contact">Contact Us</a>
         </div>
-          
+          one time 
         <ul>  
+          
           <li><b>10</b> Pages</li>
           <li><b>Customized</b> Interface Design</li>
           <li>jQuery Rotating Banner</li>
@@ -613,9 +614,12 @@
     <!-- Contact Form JavaScript -->
     <script src="js/jqBootstrapValidation.js"></script>
     <script src="js/contact_me.js"></script>
+    
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/gsap/latest/TweenMax.min.js"></script>
+<script src="http://cdnjs.cloudflare.com/ajax/libs/gsap/latest/plugins/ScrollToPlugin.min.js"></script>
 
     <!-- Custom Theme JavaScript -->
     <script src="js/freelancer.js"></script>
-
+    
 </body>
 </html>
