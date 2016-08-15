@@ -6,10 +6,10 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="Keywords" content="Web Design,Website Design,Web Designer,Website Designer,Malaysia Web Design,Malaysia Website Design,Malaysia Web Designer,Malaysia Website Designer, Malaysia web design, web design Malaysia, Interactive multimedia design,  Malaysia e-commerce solutions, malaysia graphic design, Malaysia Website Designer, web designer Malaysia, web hosting Malaysia, Flash design Malaysia, Malaysia Flash design, web design malaysia, website design malaysia, website designing kuala lumpur, web design selangor, website e-commerce design,  malaysia website design, malaysia ecommerce, web design  malaysia,  website design, web design,  professional website design,  web design company,  web page design,  web site design,  website design company,  website development website, search engine optimization, web redesign, website redesign,  Malaysia website design, malaysia website design malaysia web design,  malaysia web-based application, interactive marketing multimedia flash, shockwave, web application development system, application service provider, customized interactive sites, web site maintenance, shopping cart system, online payment system">
+    <meta name="Keywords" content="Web Design,Website Design,Web Designer,Website Designer,Malaysia Web Design,Malaysia Website Design,Malaysia Web Designer,Malaysia Website Designer, Malaysia web design, web design Malaysia, Interactive multimedia design,  Malaysia e-commerce solutions, malaysia graphic design, Malaysia Website Designer, web designer Malaysia, web hosting Malaysia, Flash design Malaysia, Malaysia Flash design, web design malaysia, website design malaysia, website designing kuala lumpur, web design selangor, website e-commerce design,  malaysia website design, malaysia ecommerce, web design  malaysia,  website design, web design,  professional website design,  web design company,  web page design,  web site design,  website design company,  website development website, search engine optimization, web redesign, website redesign,  Malaysia website design, malaysia website design malaysia web design,  malaysia web-based application, interactive marketing multimedia flash, shockwave, web application development system, application service provider, customized interactive sites, web site maintenance, shopping cart system, online payment system">
     <meta name="description" content="Freelance Web Design Professional">
     <meta name="author" content="Malaysia Freelance Web Design | Metapalex - Malaysia Freelance Website Design Professional ">
-	<meta name="Email" content="info@metapalex.com"/>
+    <meta name="Email" content="info@metapalex.com" />
 
     <title>Freelancer - The Meta Parallax Effect</title>
 
@@ -80,12 +80,15 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="intro-text">
-                        <span class="name">The Parallax Effect</span>					
+                        <span class="name">The Parallax Effect</span>
                         <hr class="star-light">
-                        <span class="skills">We are digital web agency in Malaysia.</span><br>
-						<span class="skills">We aim to produce high-quality website. We pursue current web technology trends and browser compatible.</span><br>
-						<span class="skills">We have keen visual eye and we understand the importance of getting it to look amazing design.</span><br>
-						<span class="skills">We care as much about the visuals as we do more about the code.</span>
+                        <span class="skills">We are digital web agency in Malaysia.</span>
+                        <br>
+                        <span class="skills">We aim to produce high-quality website. We pursue current web technology trends and browser compatible.</span>
+                        <br>
+                        <span class="skills">We have keen visual eye and we understand the importance of getting it to look amazing design.</span>
+                        <br>
+                        <span class="skills">We care as much about the visuals as we do more about the code.</span>
                     </div>
                 </div>
             </div>
@@ -94,125 +97,125 @@
 
 
     <section id="package">
-      <div id="pricing-table" class="clear">
-    <div class="plan">
-        <h3>Basic<span>RM 2,880</span></h3>
-        <div class=" page-scroll">  
-            <a class="signup" href="#contact">Contact Us</a>
+        <div id="pricing-table" class="clear package">
+            <div class="plan">
+                <h3>Basic<span>RM 2,880</span></h3>
+                <div class=" page-scroll">
+                    <a class="signup" href="#contact">Contact Us</a>
+                </div>
+                one time
+                <ul>
+
+                    <li><b>10</b> Pages</li>
+                    <li><b>Customized</b> Interface Design</li>
+                    <li>jQuery Rotating Banner</li>
+                    <li>Interactive Navigation Menu</li>
+                    <li>Photo Gallery</li>
+                    <li><b>Free 10</b> License Images</li>
+                    <li><b>Free 1</b> year hosting</li>
+                    <li><b>Free 1</b> year domain (.com & .com.my )</li>
+                    <li><b>1GB </b> Disk Space</li>
+                    <li><b>10GB </b> Monthly Bandwidth</li>
+                    <li><b>2</b> Email Accounts</li>
+                    <li><b>Unlimited</b> subdomains</li>
+                </ul>
+            </div>
+            <div class="plan most-popular" >
+                <h3>Standard<span>RM 4,550</span></h3>
+                <div class=" page-scroll">
+                    <a class="signup" href="#contact">Contact Us</a>
+                </div>
+                <ul>
+                    <li><b>15</b> Pages</li>
+                    <li><b>Responsive Design</b> (PC, Tablet, Mobile)</li>
+                    <li><b>Customized</b> Interface Design </li>
+                    <li>jQuery Rotating Banner </li>
+                    <li>Interactive Navigation Menu </li>
+                    <li>Photo Gallery </li>
+                    <li><b>Free Unlimited</b> License Images </li>
+                    <li>Free On Site Search Engine Optimization </li>
+                    <li>Free 1 year hosting </li>
+                    <li>Free 1 year domain (.com & .com.my)</li>
+                    <li><b>3GB </b> Disk Space</li>
+                    <li><b>25GB </b> Monthly Bandwidth</li>
+                    <li><b>5</b> Email Accounts</li>
+                    <li><b>Unlimited</b> subdomains</li>
+                </ul>
+            </div>
+            <div class="plan">
+                <h3>Professional<span>RM 5,690 </span></h3>
+                <div class=" page-scroll">
+                    <a class="signup" href="#contact">Contact Us</a>
+                </div>
+                <ul>
+                    <li> 20 Pages</li>
+                    <li>Responsive Design (PC, Tablet, Mobile)</li>
+                    <li>Customized Interface Design</li>
+                    <li>jQuery Rotating Banner</li>
+                    <li>Interactive Navigation Menu</li>
+                    <li>Photo Gallery</li>
+                    <li>Free Unlimited License Images</li>
+                    <li>Free On Site Search Engine Optimization</li>
+                    <li>Content Management System </li>
+                    <li>Newsletter Subscription </li>
+                    <li>Events & News Update </li>
+                    <li>Free 1 Session of Training </li>
+                    <li>Free 1 year hosting</li>
+                    <li>Free 1 year domain (.com & .com.my)</li>
+                    <li><b>5GB</b> Disk Space</li>
+                    <li><b>50GB</b> Monthly Bandwidth</li>
+                    <li><b>10</b> Email Accounts</li>
+                    <li><b>Unlimited</b> subdomains</li>
+                </ul>
+            </div>
+            <div class="plan">
+                <h3>Enterprise <br> Ecommerce<span>RM 6,890</span></h3>
+                <div class=" page-scroll">
+                    <a class="signup" href="#contact">Contact Us</a>
+                </div>
+                <ul>
+                    <li>Unlimited products support </li>
+                    <li>Responsive Design (PC, Tablet, Mobile)</li>
+                    <li>Accept Paypal & Credit Card </li>
+                    <li>Multi Categories & Subcategory </li>
+                    <li>Multi Currency </li>
+                    <li>Multi Languages </li>
+                    <li>Member Sign Up & Order </li>
+                    <li>Customized Interface Design</li>
+                    <li>jQuery Rotating Banner</li>
+                    <li>Interactive Navigation Menu</li>
+                    <li>Free Unlimited License Images</li>
+                    <li>Free Search Engine Optimization</li>
+                    <li>Content Management System</li>
+                    <li>Newsletter Subscription</li>
+                    <li>Events & News Update</li>
+                    <li>Free 1 Session of Training</li>
+                    <li>Free 1 year hosting</li>
+                    <li>Free 1 year domain (.com & .com.my)</li>
+                    <li><b>10GB</b> Disk Space</li>
+                    <li><b>100GB</b> Monthly Bandwidth</li>
+                    <li><b>20</b> Email Accounts</li>
+                    <li><b>Unlimited</b> subdomains</li>
+                </ul>
+            </div>
         </div>
-          one time 
-        <ul>  
-          
-          <li><b>10</b> Pages</li>
-          <li><b>Customized</b> Interface Design</li>
-          <li>jQuery Rotating Banner</li>
-          <li>Interactive Navigation Menu</li>
-          <li>Photo Gallery</li>
-          <li><b>Free 10</b> License Images</li>
-          <li><b>Free 1</b> year hosting</li>
-          <li><b>Free 1</b> year domain (.com & .com.my )</li> 
-          <li><b>1GB </b> Disk Space</li>
-          <li><b>10GB </b> Monthly Bandwidth</li>
-          <li><b>2</b> Email Accounts</li>
-          <li><b>Unlimited</b> subdomains</li>		         
-        </ul> 
-    </div>
-    <div class="plan" id="most-popular">
-        <h3>Standard<span>RM 4,550</span></h3>
-        <div class=" page-scroll">  
-            <a class="signup" href="#contact">Contact Us</a>
-        </div>     
-        <ul>
-            <li><b>15</b> Pages</li>
-            <li><b>Responsive Design</b> (PC, Tablet, Mobile)</li>
-            <li><b>Customized</b> Interface Design </li>
-            <li>jQuery Rotating Banner </li>
-            <li>Interactive Navigation Menu </li>
-            <li>Photo Gallery </li>
-            <li><b>Free Unlimited</b> License Images  </li>
-            <li>Free On Site Search Engine Optimization  </li>
-            <li>Free 1 year hosting </li>
-            <li>Free 1 year domain (.com & .com.my)</li>
-            <li><b>3GB </b> Disk Space</li>
-            <li><b>25GB </b> Monthly Bandwidth</li>
-            <li><b>5</b> Email Accounts</li>
-            <li><b>Unlimited</b> subdomains</li>			
-        </ul>    
-    </div>
-    <div class="plan">
-        <h3>Professional<span>RM 5,690 </span></h3>
-        <div class=" page-scroll">  
-            <a class="signup" href="#contact">Contact Us</a>
-        </div>
-        <ul>
-            <li> 20 Pages</li>
-            <li>Responsive Design (PC, Tablet, Mobile)</li>
-            <li>Customized Interface Design</li>
-            <li>jQuery Rotating Banner</li>
-            <li>Interactive Navigation Menu</li>
-            <li>Photo Gallery</li>
-            <li>Free Unlimited License Images</li>
-            <li>Free On Site Search Engine Optimization</li>
-            <li>Content Management System </li>
-            <li>Newsletter Subscription </li>
-            <li>Events & News Update </li>
-            <li>Free 1 Session of Training </li>
-            <li>Free 1 year hosting</li>
-            <li>Free 1 year domain (.com & .com.my)</li>
-            <li><b>5GB</b> Disk Space</li>
-            <li><b>50GB</b> Monthly Bandwidth</li>
-            <li><b>10</b> Email Accounts</li>
-			      <li><b>Unlimited</b> subdomains</li>			
-        </ul>
-    </div>
-    <div class="plan">
-        <h3>Enterprise <br> Ecommerce<span>RM 6,890</span></h3>
-        <div class=" page-scroll">  
-            <a class="signup" href="#contact">Contact Us</a>
-        </div>	
-        <ul>
-          <li>Unlimited products support </li>
-          <li>Responsive Design (PC, Tablet, Mobile)</li>
-          <li>Accept Paypal & Credit Card </li>
-          <li>Multi Categories & Subcategory </li>
-          <li>Multi Currency </li>
-          <li>Multi Languages </li>
-          <li>Member Sign Up & Order </li>
-          <li>Customized Interface Design</li>
-          <li>jQuery Rotating Banner</li>
-          <li>Interactive Navigation Menu</li>
-          <li>Free Unlimited License Images</li>
-          <li>Free Search Engine Optimization</li>
-          <li>Content Management System</li>
-          <li>Newsletter Subscription</li>
-          <li>Events & News Update</li>
-          <li>Free 1 Session of Training</li>
-          <li>Free 1 year hosting</li>
-          <li>Free 1 year domain (.com & .com.my)</li>
-          <li><b>10GB</b> Disk Space</li>
-          <li><b>100GB</b> Monthly Bandwidth</li>
-          <li><b>20</b> Email Accounts</li>
-          <li><b>Unlimited</b> subdomains</li>			
-        </ul>
-    </div> 	
-</div>
     </section>
     <div style="clear:both;"></div>
     <!-- Portfolio Grid Section -->
-  
+
     <section id="portfolio">
-        <div class="container">
+        <div class="container portfolio">
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2>What can we do?</h2>
-					<!-- Smooth ,Inview elegant show, eloquent, morpher. -->
+                    <!-- Smooth ,Inview elegant show, eloquent, morpher. -->
                     <hr class="star-primary">
                 </div>
             </div>
 
-            <div class="row">    
-              <div class="col-sm-2 portfolio-item">
-              </div>
+            <div class="row">
+                <div class="col-sm-2">
+                </div>
                 <div class="col-sm-4 portfolio-item">
                     <a href="#portfolioModal5" class="portfolio-link" data-toggle="modal">
                         <div class="caption">
@@ -233,12 +236,12 @@
                         <img src="img/portfolio/united-pump.png" class="img-responsive" alt="">
                     </a>
                 </div>
-                <div class="col-sm-2 portfolio-item">
+                <div class="col-sm-2">
                 </div>
             </div>
         </div>
     </section>
-  
+
     <!-- About Section -->
     <section class="success" id="about">
         <div class="container">
@@ -246,7 +249,7 @@
                 <div class="col-lg-12 text-center">
                     <h2>About</h2>
                     <hr class="star-light">
-					<h3>A small team of group. But we are not afraid to challenge ourselves to achieve award winning. Please ask for free quotation.</h3>
+                    <h3>A small team of group. But we are not afraid to challenge ourselves to achieve award winning. Please ask for free quotation.</h3>
                 </div>
             </div>
             <div class="row">
@@ -257,7 +260,7 @@
                     <p></p>
                 </div>
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-     <!--               <a href="#" class="btn btn-lg btn-outline">
+                    <!--               <a href="#" class="btn btn-lg btn-outline">
                         <i class="fa fa-download"></i> Download Theme
                     </a> -->
                 </div>
@@ -349,7 +352,7 @@
                             </li>
                         </ul> -->
 
-						<h3>About Us</h3>
+                        <h3>About Us</h3>
                         <p>A small team of group. But we are not afraid to challenge ourselves to achieve award winning. Please ask for free quotation.</p>
                     </div>
                     <div class="footer-col col-md-4">
@@ -386,7 +389,7 @@
                 </div>
             </div>
             <div class="container">
-                <div class="row"> 
+                <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
                             <h2>Project Title</h2>
@@ -601,7 +604,8 @@
     </div>
 
     <!-- jQuery -->
-    <script src="js/jquery.js"></script>
+    <!-- <script src="js/jquery.js"></script> -->
+    <script   src="https://code.jquery.com/jquery-3.1.0.js"   integrity="sha256-slogkvB1K3VOkzAI8QITxV3VzpOnkeNVsKvtkYLMjfk="   crossorigin="anonymous"></script>
 
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
@@ -614,12 +618,21 @@
     <!-- Contact Form JavaScript -->
     <script src="js/jqBootstrapValidation.js"></script>
     <script src="js/contact_me.js"></script>
-    
-    <script src="http://cdnjs.cloudflare.com/ajax/libs/gsap/latest/TweenMax.min.js"></script>
-<script src="http://cdnjs.cloudflare.com/ajax/libs/gsap/latest/plugins/ScrollToPlugin.min.js"></script>
 
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/gsap/latest/TweenMax.min.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/gsap/latest/plugins/ScrollToPlugin.min.js"></script>
+
+    
+    <script type="text/javascript" src="js/highlight.pack.js"></script>
+    <script type="text/javascript" src="js/modernizr.custom.min.js"></script>
+    
+    <script type="text/javascript" src="js/ScrollMagic.js"></script>
+    <script type="text/javascript" src="js/animation.gsap.js"></script>
     <!-- Custom Theme JavaScript -->
     <script src="js/freelancer.js?v=1"></script>
     
+    
+
 </body>
+
 </html>

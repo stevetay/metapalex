@@ -217,11 +217,10 @@ section.success {
   
 }
 
-#pricing-table #most-popular {
+#pricing-table .most-popular {
 	z-index: 2;
-	top: -13px;
 	border-width: 3px;
-	padding: 30px 20px;
+	padding: 43px 20px;
 	-moz-border-radius: 5px;
 	-webkit-border-radius: 5px;
 	border-radius: 5px;
@@ -258,7 +257,7 @@ section.success {
 	background-image: linear-gradient(#fff, #eee);
 }
 
-#pricing-table #most-popular h3 {
+#pricing-table .most-popular h3 {
 	background-color: #ddd;
 	background-image: -moz-linear-gradient(#eee,#ddd);
 	background-image: -webkit-gradient(linear, left top, left bottom, from(#eee), to(#ddd));    
@@ -266,7 +265,7 @@ section.success {
 	background-image: -o-linear-gradient(#eee, #ddd);
 	background-image: -ms-linear-gradient(#eee, #ddd);
 	background-image: linear-gradient(#eee, #ddd);
-	margin-top: -30px;
+	margin-top: -43px;
 	padding-top: 30px;
 	-moz-border-radius: 5px 5px 0 0;
 	-webkit-border-radius: 5px 5px 0 0;
@@ -401,6 +400,9 @@ section.success {
 
 #portfolio .portfolio-item .portfolio-link .caption:hover {
     opacity: 1;
+}
+#portfolio .portfolio-item .portfolio-link img {
+    height: 180px;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption .caption-content {
