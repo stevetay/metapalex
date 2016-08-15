@@ -629,7 +629,7 @@
     <script type="text/javascript" src="js/ScrollMagic.js"></script>
     <script type="text/javascript" src="js/animation.gsap.js"></script>
     <!-- Custom Theme JavaScript -->
-    <script src="js/freelancer.js?v=1"></script>
+    <script src="js/freelancer.js?v=2"></script>
     
     
 
