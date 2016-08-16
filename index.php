@@ -236,9 +236,29 @@
                         <img src="img/portfolio/united-pump.png" class="img-responsive" alt="">
                     </a>
                 </div>
+                
                 <div class="col-sm-2">
                 </div>
             </div>
+            
+            <div class="row">
+                <div class="col-sm-4">
+                </div>
+                <div class="col-sm-4 portfolio-item">
+                    <a href="#portfolioModal7" class="portfolio-link" data-toggle="modal">
+                        <div class="caption">
+                            <div class="caption-content">
+                                <i class="fa fa-search-plus fa-3x"></i>
+                            </div>
+                        </div>
+                        <img src="img/portfolio/cosmetics.png" class="img-responsive" alt="">
+                    </a>
+                </div>
+                <div class="col-sm-2">
+                </div>
+            </div>
+  
+            
         </div>
     </section>
 
@@ -587,11 +607,48 @@
                                     </strong>
                                 </li>
                                 <li>Date:
-                                    <strong><a href="http://startbootstrap.com">March 2016</a>
+                                    <strong><a href="">March 2016</a>
                                     </strong>
                                 </li>
                                 <li>Service:
-                                    <strong><a href="http://startbootstrap.com">Web CMS Development</a>
+                                    <strong><a href="">Web CMS Development</a>
+                                    </strong>
+                                </li>
+                            </ul>
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="portfolio-modal modal fade" id="portfolioModal7" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Ecommerce Cosmetics</h2>
+                            <hr class="star-primary">
+                            <img src="img/portfolio/cosmetics.png" class="img-responsive img-centered" alt="">
+                            <p>Customize designed with Opencart. Opencart ecommerce Faster, Responsive and Easy to use. This clean responsive theme for Cosmetics Store Theme comes with many interesting elements, including implemented background video, Parallax, Lazy Load effect.</p>
+                            <ul class="list-inline item-details">
+                                <li>Ready Designed:
+                                  <strong><a href="http://cosmetics.metapalex.com/">Ecommerce Cosmetics</a>
+                                  </strong>
+                                </li>
+                                <li>Date:
+                                    <strong><a href="">Aug 2016</a>
+                                    </strong>
+                                </li>
+                                <li>Service:
+                                    <strong><a href="">Ecommerce CMS Development</a>
                                     </strong>
                                 </li>
                             </ul>
