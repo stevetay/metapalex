@@ -269,7 +269,7 @@
                 <div class="col-lg-12 text-center">
                     <h2>About</h2>
                     <hr class="star-light">
-                    <h3>A small team of group. But we are not afraid to challenge ourselves to achieve award winning. Please ask for free quotation.</h3>
+                    <h3>A small team of group. But we are not afraid to challenge ourselves to achieve award winning. Please ask for free quotation. <br> <a style="color:white;" href="mailto:info@metapalex.com" target="_top">info@metapalex.com</a>  </h3>
                 </div>
             </div>
             <div class="row">
@@ -373,7 +373,7 @@
                         </ul> -->
 
                         <h3>About Us</h3>
-                        <p>A small team of group. But we are not afraid to challenge ourselves to achieve award winning. Please ask for free quotation.</p>
+                        <p>A small team of group. But we are not afraid to challenge ourselves to achieve award winning. Please ask for free quotation. <br><a href="mailto:info@metapalex.com" target="_top">info@metapalex.com</a> </p>
                     </div>
                     <div class="footer-col col-md-4">
 
